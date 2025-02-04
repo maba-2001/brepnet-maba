@@ -1,0 +1,9 @@
+[project]
+name = "brepnet_maba"
+version = "0.0.1"
+authors = [
+  { name="Matteo Ballegeer", email="matteo.ballegeer@ugent.be" },
+]
+description = "BrepNet Fork for Bending"
+readme = "README.md"
+requires-python = ">=3.9"
